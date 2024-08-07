@@ -1,0 +1,14 @@
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/bin/Debug/net8.0/gelos_bank
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/bin/Debug/net8.0/gelos_bank.deps.json
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/bin/Debug/net8.0/gelos_bank.runtimeconfig.json
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/bin/Debug/net8.0/gelos_bank.dll
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/bin/Debug/net8.0/gelos_bank.pdb
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.AssemblyInfoInputs.cache
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.AssemblyInfo.cs
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.csproj.CoreCompileInputs.cache
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.dll
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/refint/gelos_bank.dll
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.pdb
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/gelos_bank.genruntimeconfig.cache
+/home/archebus/TAFE/Programming/00_Projects/gelos_bank/obj/Debug/net8.0/ref/gelos_bank.dll
